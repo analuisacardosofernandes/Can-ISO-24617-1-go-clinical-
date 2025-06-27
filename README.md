@@ -17,9 +17,8 @@ Original Text2Story annotation guidelines, which served as the basis for this ex
 annotation_scheme_diagram/
 Visual diagram of the Med2Story annotation scheme, illustrating the General Class, Specialized Class, and Temporal Links. Green highlights indicate attributes added or revised following validation.
 
-example_Med2Story/ 
-Annotation of an excerpt from a medical report using the Med2Story. 
-
+Appendix Can ISO 24617-1 go clinical?/ 
+Appendix of the article. It contains the tables with the quantification of events and temporal links in the annotations made according to the i2b2 and Text2Story schemes, as well as an example of an excerpt from a medical report annotated using the Med2Story scheme.
 
 
 📄 Citation
