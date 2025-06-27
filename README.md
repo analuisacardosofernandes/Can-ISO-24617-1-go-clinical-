@@ -16,6 +16,7 @@ Original Text2Story annotation guidelines, which served as the basis for this ex
 
 annotation_scheme_diagram/
 Visual diagram of the Med2Story annotation scheme, illustrating the General Class, Specialized Class, and Temporal Links. Green highlights indicate attributes added or revised following validation.
+
 exemple_ann/ 
 Annotation of an excerpt from a medical report using the Med2Story. 
 
